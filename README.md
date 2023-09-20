@@ -9,7 +9,7 @@ Brainstrom:
   -	Understand the differences between the PM roles
   -	What are the different PM roles?
     - Project Manager
-    -	Product Manager
+    - Product Manager
     -	Product Owner
    	
 Research:
