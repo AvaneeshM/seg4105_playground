@@ -7,7 +7,9 @@ Avaneesh Madaram
 
 ## Breadboarding
 ### Stage 1
-![Alt text]()
+![image](https://github.com/AvaneeshM/seg4105_playground/assets/55166169/14c2290d-53fd-4b93-9534-3095c1493240)
+
+
 
 ### Stage 2 (Refined)
 ![Alt text]()
