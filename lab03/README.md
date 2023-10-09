@@ -7,11 +7,11 @@ Avaneesh Madaram
 
 ## Breadboarding
 ### Stage 1
-![image](https://github.com/AvaneeshM/seg4105_playground/assets/55166169/14c2290d-53fd-4b93-9534-3095c1493240)
+![image](Brainstorm.png)
 
 
 ### Stage 2 (Refined)
-![image](https://github.com/AvaneeshM/seg4105_playground/assets/55166169/4c44ce2e-6afb-4e30-ba13-956377504aa8)
+![image](Breadboarding.png)
 
 ## Problem:
   -	One of the main issues for people trying to work out is finding and creating workouts and routines tailored to them. By creating a login and signup feature it will allow the user to make personalized workouts and which they can access anytime they log on. Furthermore, they will be able to share their workouts with other users and be able to refer to more experienced gym members. 
